@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mustafa Kemal
-- 👀 I’m interested in Neural Networks , Deep Learning , Machine Learning and OOP programming languages .
-- 🌱 I’m currently learning Neural Networks .
+- 👀 I’m interested in Neural Networks , Deep Learning , Machine Learning and OOP programming languages.
+- 🌱 I’m currently learning Neural Networks.
 - 📫 How to reach me : mkemalgokce10@gmail.com
 
 <!---
