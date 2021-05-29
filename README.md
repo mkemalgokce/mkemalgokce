@@ -12,14 +12,14 @@ My name is Mustafa, I am 20 years old. I am studying at Istanbul Medeniyet Unive
 
 
 <p align="center">
-	<a target="_blank" href="https://github.com/mkemalgokce/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mkemalgokce&show_icons=true&theme=material-palenight" width="400" /></a>
+	<a target="_blank" href="https://github.com/mkemalgokce/"><img src="https://github-readme-stats.vercel.app/api?username=mkemalgokce&show_icons=true&theme=material-palenight" width="400" /></a>
 </p>
 
 <h2 align="center">📚 MY PROGRAMMING LANGUAGES STATS  </h2>
 
 
 <p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkemalgokce&layout=compact&theme=material-palenight" width="400" /></a>
+	<a target="_blank" href="https://github.com/mkemalgokce"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkemalgokce&layout=compact&theme=material-palenight" width="400" /></a>
 </p>
 
 <h2 align="center">🧰 LANGUAGES & TOOLS & SERVICES </h2>
@@ -38,29 +38,30 @@ My name is Mustafa, I am 20 years old. I am studying at Istanbul Medeniyet Unive
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/json.svg"height="64">
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/docker.svg"height="64">
 	
-  
-
 </p>
 
 <h2 align="center">🌀 SOME OF MY PROJECTS  </h2>
-
-<a align="center" href="https://github.com/mkemalgokce/Mask-Detection-With-CNN" target="_blank">
+<p align="center">
+<a href="https://github.com/mkemalgokce/Mask-Detection-With-CNN" target="_blank">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=Mask-Detection-With-CNN&theme=material-palenight" />
 </a>
-
-<a align="center" href="https://github.com/mkemalgokce/ReinforcementLearningCarProject-DQL-" target="_blank">
+</p>
+<p align="center">
+<a href="https://github.com/mkemalgokce/ReinforcementLearningCarProject-DQL-" target="_blank">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=ReinforcementLearningCarProject-DQL-&theme=material-palenight" />
 </a>
-
-<a align="center" href="https://github.com/mkemalgokce/OpenGL-Game" target="_blank">
+</p>
+<p align="center">
+<a href="https://github.com/mkemalgokce/OpenGL-Game" target="_blank">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=OpenGL-Game&theme=material-palenight" />
 </a>
+</p>
 
-
-## <p align="center">:mailbox: REACH ME ON
+</p>
+<h2 align="center">:mailbox: REACH ME ON  </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/mkemalgokce/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
   <a href="mailto:mkemalgokce10@gmail.com?subject=Hello%20Mustafa,%20From%20Your%20Github%20Page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  height="40"/></a>
