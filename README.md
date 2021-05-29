@@ -25,18 +25,18 @@ My name is Mustafa, I am 20 years old. I am studying at Istanbul Medeniyet Unive
 <h2 align="center">🧰 LANGUAGES & TOOLS & SERVICES </h2>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="70">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="70">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="70">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="70">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="70">
-<img src="https://user-images.githubusercontent.com/46056478/120065121-71a24300-c078-11eb-97ec-15f2939ddee0.png" height="70">
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/github.svg"height="70">
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg"height="70">
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/text%20editors/vscode.svg"height="70">
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg"height="70">
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/json.svg"height="70">
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/docker.svg"height="70">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="64">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="64">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="64">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="64">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="64">
+<img src="https://user-images.githubusercontent.com/46056478/120065121-71a24300-c078-11eb-97ec-15f2939ddee0.png" height="64">
+<img src="https://user-images.githubusercontent.com/46056478/120066262-8255b780-c07e-11eb-957a-95d7a2692bb9.png" height="64">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg"height="64">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/text%20editors/vscode.svg"height="64">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg"height="64">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/json.svg"height="64">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/docker.svg"height="64">
 	
   
 
