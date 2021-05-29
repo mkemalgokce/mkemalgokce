@@ -62,6 +62,6 @@ My name is Mustafa, I am 20 years old. I am studying at Istanbul Medeniyet Unive
 
 ## <p align="center">:mailbox: REACH ME ON
 <p align="center">
-  <a href="https://www.linkedin.com/in/mkemalgokce/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40"/></a>
+  <a href="https://www.linkedin.com/in/mkemalgokce/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
   <a href="mailto:mkemalgokce10@gmail.com?subject=Hello%20Mustafa,%20From%20Your%20Github%20Page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  height="40"/></a>
-  <a href="https://github.com/mkemalgokce" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" target="_blank" height="40" /></a>
+  <a href="https://github.com/mkemalgokce" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height="40" /></a>
