@@ -44,20 +44,20 @@ My name is Mustafa, I am 20 years old. I am studying at Istanbul Medeniyet Unive
 
 <h2 align="center">🌀 SOME OF MY PROJECTS  </h2>
 
-<p align="center" href="https://github.com/mkemalgokce/Mask-Detection-With-CNN" target="_blank">
+<a align="center" href="https://github.com/mkemalgokce/Mask-Detection-With-CNN" target="_blank">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=Mask-Detection-With-CNN&theme=material-palenight" />
-</p>
+</a>
 
-<p align="center" href="https://github.com/mkemalgokce/ReinforcementLearningCarProject-DQL-" target="_blank">
+<a align="center" href="https://github.com/mkemalgokce/ReinforcementLearningCarProject-DQL-" target="_blank">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=ReinforcementLearningCarProject-DQL-&theme=material-palenight" />
-</p>
+</a>
 
-<p align="center" href="https://github.com/mkemalgokce/OpenGL-Game" target="_blank">
+<a align="center" href="https://github.com/mkemalgokce/OpenGL-Game" target="_blank">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=OpenGL-Game&theme=material-palenight" />
-</p>
+</a>
 
 
 ## <p align="center">:mailbox: REACH ME ON
