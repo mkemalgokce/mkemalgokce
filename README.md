@@ -1,13 +1,19 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+ <h1 align="center">HEY THERE! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><br></h1>
+ <br>
+	
+<h1 align="center"> :raising_hand_man: MKG <a target="_blank" href="https://github.com/mkemalgokce"><img src="https://badges.pufler.dev/years/mkemalgokce?color=blue" alt="MKG Github Years" width="70" /></a>
+	<a target="_blank" href="https://github.com/mkemalgokce"><img src="https://badges.pufler.dev/repos/mkemalgokce?color=blue" alt="MKG Github Repos" width="80" /></a>
 
-- 👋 Hi, I’m Mustafa Kemal
-- 👀 I’m interested in Neural Networks , Deep Learning , Machine Learning and OOP programming languages.
-- 🌱 I’m currently learning Neural Networks.
-
+<p align="center">
+<br>
+<img align="center" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="500px">
+</p>	
+</h1>
 <h2 align="center">🦉 ABOUT ME  </h2> 
 
 My name is Mustafa, I am 20 years old. I am studying at Istanbul Medeniyet University. I major in Computer Engineering. I have one more year to finish my school.
-
+- 👀 I’m interested in Neural Networks , Deep Learning , Machine Learning and OOP programming languages.
+- 🌱 I’m currently learning Neural Networks.
 <h2 align="center"> 📣 MY GITHUB STATS </h2>
 
 
