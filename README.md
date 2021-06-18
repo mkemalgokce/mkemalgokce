@@ -43,7 +43,10 @@ My name is Mustafa, I am 20 years old. I am studying at Istanbul Medeniyet Unive
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg"height="64">
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/json.svg"height="64">
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/docker.svg"height="64">
-	
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="64">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="64">
+<img src="https://user-images.githubusercontent.com/46056478/122613919-4d8dbc80-d08e-11eb-9087-3c1b5c3f5378.png" height="64"> 
+
 </p>
 
 <h2 align="center">🌀 SOME OF MY PROJECTS  </h2>
