@@ -13,7 +13,7 @@
 </h1>
 <h2 align="center">🦉 ABOUT ME  </h2> 
 
-My name is Mustafa, I am 20 years old. I am studying at Istanbul Medeniyet University. I major in Computer Engineering. I have one more year to finish my school.
+My name is Mustafa, I am 21 years old. I studied at Istanbul Medeniyet University. I majored in Computer Engineering. 
 - 👀 I’m interested in Neural Networks , Deep Learning , Machine Learning and OOP programming languages.
 - 🌱 I’m currently learning Neural Networks.
 <h2 align="center"> 📣 MY GITHUB STATS </h2>
