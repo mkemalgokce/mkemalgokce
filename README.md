@@ -84,7 +84,8 @@ My name is Mustafa, I am 21 years old. I studied at Istanbul Medeniyet Universit
 <h2 align="center"> </h2>
 
 <p align = "center">
-<img align="center" src="https://media.giphy.com/media/IgYDSGFFNpxN9gWAQ4/giphy.gif" width="130px">
+<img align="center" src="https://media.giphy.com/media/d6JYzDBoWocP8ySRcJ/giphy.gif" width="130px">
 </p>
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=mkemalgokce&style=flat">
