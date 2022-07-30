@@ -1,18 +1,14 @@
  <h1 align="center">HEY THERE! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><br></h1>
  <br>
 
-<h1 align="center"> :raising_hand_man: MKG <a target="_blank" href="https://github.com/mkemalgokce">
-<!-- 
-<img src="https://badges.pufler.dev/years/mkemalgokce?color=blue" alt="MKG Github Years" width="70" /></a>
-	<a target="_blank" href="https://github.com/mkemalgokce"><img src="https://badges.pufler.dev/repos/mkemalgokce?color=blue" alt="MKG Github Repos" width="80" /></a>
-!-->
-<p align="center">
-<br>
-<img align="center" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="500px">
-	
+<h1 align="center"> :raising_hand_man: MKG <a target="_blank" href="https://github.com/mkemalgokce"></a></h1>
 
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="800px">
+	
 </p>	
-</h1>
+
+
 <h2 align="center">🦉 ABOUT ME  </h2> 
 
 My name is Mustafa, I am 21 years old. I studied at Istanbul Medeniyet University. I majored in Computer Engineering. 
