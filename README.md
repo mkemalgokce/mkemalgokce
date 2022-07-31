@@ -11,12 +11,12 @@ My name is Mustafa, I am 21 years old. I studied at Istanbul Medeniyet Universit
 <h2 align="center"> 📣 MY GITHUB STATS </h2>
 
 <p align="center">
-	<a target="_blank" href="https://github.com/mkemalgokce/"><img src="https://github-readme-stats.vercel.app/api?username=mkemalgokce&show_icons=true&theme=material-palenight" width="400" /></a>
+	<a target="_blank" href="https://github.com/mkemalgokce/"><img src="https://github-readme-stats.vercel.app/api?username=mkemalgokce&show_icons=true&theme=radical" width="400" /></a>
 </p>
 
 <h2 align="center">📚 MY PROGRAMMING LANGUAGES STATS  </h2>
 <p align="center">
-<a target="_blank" href="https://github.com/mkemalgokce"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkemalgokce&layout=compact&theme=material-palenight" width="400" /></a>
+<a target="_blank" href="https://github.com/mkemalgokce"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkemalgokce&layout=compact&theme=radical" width="400" /></a>
 </p>
 
 <h2 align="center">🧰 LANGUAGES & TOOLS & SERVICES </h2>
@@ -30,21 +30,21 @@ My name is Mustafa, I am 21 years old. I studied at Istanbul Medeniyet Universit
 <h2 align="center">🌀 SOME OF MY PROJECTS  </h2>
 <p align="center">
 <a href="https://github.com/mkemalgokce/FindingCorrelationBetweenHumansAndObjects" target="_blank">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=FindingCorrelationBetweenHumansAndObjects&theme=material-palenight" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=FindingCorrelationBetweenHumansAndObjects&theme=radical" />
 </a>
 </p>
 <p align="center">
 <a href="https://github.com/mkemalgokce/ReinforcementLearningCarProject-DQL-" target="_blank">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=ReinforcementLearningCarProject-DQL-&theme=material-palenight" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=ReinforcementLearningCarProject-DQL-&theme=radical" />
 </a>
 </p>
 <p align="center">
 <a href="https://github.com/mkemalgokce/Mask-Detection-With-CNN" target="_blank">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=Mask-Detection-With-CNN&theme=material-palenight" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=Mask-Detection-With-CNN&theme=radical" />
 </a>
 </p>
 
