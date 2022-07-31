@@ -1,10 +1,7 @@
- <h1 align="center">HEY THERE! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><br></h1>
- <br>
-
-<h1 align="center"> :raising_hand_man: MKG <a target="_blank" href="https://github.com/mkemalgokce"></a></h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=30&duration=3000&color=ADBAC7&background=FF65C100&center=true&multiline=true&width=600&lines=Welcome+to+my+Github+profile!" alt="Typing SVG" /></a> </h1>
 
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="800px">
+<img align="center" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="700px">
 	
 </p>	
 
@@ -75,7 +72,7 @@ My name is Mustafa, I am 21 years old. I studied at Istanbul Medeniyet Universit
 <p align="center">
   <a href="https://www.linkedin.com/in/mkemalgokce/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
   <a href="mailto:mkemalgokce10@gmail.com?subject=Hello%20Mustafa,%20From%20Your%20Github%20Page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  height="40"/></a>
-  <a href="https://github.com/mkemalgokce" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height="40" /></a>
+
 
 <h2 align="center"> </h2>
 
