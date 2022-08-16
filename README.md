@@ -48,21 +48,22 @@ My name is Mustafa, I am 21 years old. I studied at Istanbul Medeniyet Universit
 </a>
 </p>
 
+
+<h2 align="center"> 🎧 SPOTIFY PLAYING   </h2>
+
+<p align="center">
+
+<img src="https://novatorem-theta-peach.vercel.app/api/spotify">
+
 </p>
+
+</h2>
+
 <h2 align="center">:mailbox: REACH ME ON  </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/mkemalgokce/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
   <a href="mailto:mkemalgokce10@gmail.com?subject=Hello%20Mustafa,%20From%20Your%20Github%20Page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  height="40"/></a>
-
-
-<h2 align="center"> 🎧 SPOTIFY PLAYING   </h2>
-
-<h2 align="center"> 
-
-
-[![Spotify](https://novatorem-theta-peach.vercel.app/api/spotify)](https://open.spotify.com/user/31etprwufjxvsol3lpfithgyo46u?si=fcce3105da6d4121)
-</h2>
-
+  
 <p align = "center">
 <img align="center" src="https://media.giphy.com/media/d6JYzDBoWocP8ySRcJ/giphy.gif" width="130px">
 </p>
