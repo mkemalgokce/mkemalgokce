@@ -8,19 +8,19 @@
 My name is Mustafa, I am 21 years old. I studied at Istanbul Medeniyet University. I majored in Computer Engineering. 
 - 👀 I’m interested in Neural Networks , Deep Learning , Machine Learning and OOP programming languages.
 - 🌱 I’m currently learning Neural Networks.
-<!--
+
 <h2 align="center"> 📣 MY GITHUB STATS </h2>
 
 <p align="center">
 	<a target="_blank" href="https://github.com/mkemalgokce/"><img src="https://github-readme-stats.vercel.app/api?username=mkemalgokce&show_icons=true&theme=radical" width="400" /></a>
 </p>
--->
-<!--
+
+
 <h2 align="center">📚 MY PROGRAMMING LANGUAGES STATS  </h2>
 <p align="center">
 <a target="_blank" href="https://github.com/mkemalgokce"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkemalgokce&layout=compact&theme=radical" width="400" /></a>
 </p> 
--->
+
 
 <h2 align="center">🧰 LANGUAGES & TOOLS & SERVICES </h2>
 
@@ -30,7 +30,7 @@ My name is Mustafa, I am 21 years old. I studied at Istanbul Medeniyet Universit
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<!--
+
 <h2 align="center">🌀 SOME OF MY PROJECTS  </h2>
 <p align="center">
 <a href="https://github.com/mkemalgokce/FindingCorrelationBetweenHumansAndObjects" target="_blank">
@@ -51,7 +51,7 @@ My name is Mustafa, I am 21 years old. I studied at Istanbul Medeniyet Universit
 </a>
 </p>
 
--->
+
 <h2 align="center"> 🎧 SPOTIFY PLAYING   </h2>
 
 <p align="center">
