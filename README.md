@@ -6,9 +6,9 @@
 <h2 align="center">🦉 ABOUT ME  </h2> 
 
 My name is Mustafa, I am 22 years old. I studied at Istanbul Medeniyet University. I majored in Computer Engineering. 
-- 👀 I’m interested in Neural Networks , Deep Learning , Machine Learning and OOP programming languages.
-- 🤖 I’m improving my C++ these times.
-- 🌱 I’m currently learning Neural Networks.
+- 👀 I'm interested in Neural Networks, Deep Learning, Machine Learning.
+- 🤖 I'm improving my C++ these times.
+- 🪽 I'm currently learning Swift.
 
 <h2 align="center"> 📣 MY GITHUB STATS </h2>
 
