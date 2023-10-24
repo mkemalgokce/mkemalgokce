@@ -68,9 +68,7 @@ My name is Mustafa, I am 22 years old. I studied at Istanbul Medeniyet Universit
   <a href="https://www.linkedin.com/in/mkemalgokce/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
   <a href="mailto:mkemalgokce10@gmail.com?subject=Hello%20Mustafa,%20From%20Your%20Github%20Page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  height="40"/></a>
   
-<p align = "center">
-<img align="center" src="https://media.giphy.com/media/d6JYzDBoWocP8ySRcJ/giphy.gif" width="130px">
-</p>
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=mkemalgokce&style=for-the-badge&color=blueviolet">
 
