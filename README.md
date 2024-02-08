@@ -5,10 +5,13 @@
 
 <h2 align="center">🦉 ABOUT ME  </h2> 
 
-My name is Mustafa, I am 22 years old. I studied at Istanbul Medeniyet University. I majored in Computer Engineering. 
-- 👀 I'm interested in Neural Networks, Deep Learning, Machine Learning.
-- 🤖 I'm improving my C++ these times.
-- 🪽 I'm currently learning Swift.
+My name is Mustafa, I am 23 years old. I studied at Istanbul Medeniyet University.
+I majored in Computer Engineering. I am a Jr. IOS Developer.
+
+- 💼 Junior iOS Developer
+- 🌱 Continuously learning and growing in the world of iOS development
+- 🔭 Actively seeking job opportunities and collaboration opportunities
+- 🚀 Always excited to work on challenging projects and expand my skill set
 
 <h2 align="center"> 📣 MY GITHUB STATS </h2>
 
@@ -32,37 +35,15 @@ My name is Mustafa, I am 22 years old. I studied at Istanbul Medeniyet Universit
 - ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-<h2 align="center">🌀 SOME OF MY PROJECTS  </h2>
-<p align="center">
-<a href="https://github.com/mkemalgokce/FindingCorrelationBetweenHumansAndObjects" target="_blank">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=FindingCorrelationBetweenHumansAndObjects&theme=radical" />
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/mkemalgokce/ReinforcementLearningCarProject-DQL-" target="_blank">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=ReinforcementLearningCarProject-DQL-&theme=radical" />
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/mkemalgokce/Mask-Detection-With-CNN" target="_blank">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkemalgokce&repo=Mask-Detection-With-CNN&theme=radical" />
-</a>
-</p>
-
-
-</p>
-
-</h2>
-
 <h2 align="center">:mailbox: REACH ME ON  </h2>
+<p align="center">I'm open to collaboration opportunities, freelance projects, and job offers. Let's build something amazing together! 😊</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mkemalgokce/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
   <a href="mailto:mkemalgokce10@gmail.com?subject=Hello%20Mustafa,%20From%20Your%20Github%20Page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  height="40"/></a>
-  
 </p>
+
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=mkemalgokce&style=for-the-badge&color=blueviolet">
 
