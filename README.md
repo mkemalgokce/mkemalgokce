@@ -13,17 +13,6 @@ I majored in Computer Engineering. I am a Jr. IOS Developer.
 - 🔭 Actively seeking job opportunities and collaboration opportunities
 - 🚀 Always excited to work on challenging projects and expand my skill set
 
-<h2 align="center"> 📣 MY GITHUB STATS </h2>
-
-<p align="center">
-	<a target="_blank" href="https://github.com/mkemalgokce/"><img src="https://github-readme-stats.vercel.app/api?username=mkemalgokce&show_icons=true&theme=radical" width="400" /></a>
-</p>
-
-
-<h2 align="center">📚 MY PROGRAMMING LANGUAGES STATS  </h2>
-<p align="center">
-<a target="_blank" href="https://github.com/mkemalgokce"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkemalgokce&layout=compact&theme=radical" width="400" /></a>
-</p> 
 
 
 <h2 align="center">🧰 LANGUAGES & TOOLS & SERVICES </h2>
