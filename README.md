@@ -5,7 +5,7 @@
 
 <h2 align="center">🦉 ABOUT ME  </h2> 
 
-My name is Mustafa, I am 23 years old. I studied at Istanbul Medeniyet University.
+My name is Mustafa, I am 25 years old. I studied at Istanbul Medeniyet University.
 I majored in Computer Engineering. I am an IOS Developer.
 
 - 💼 IOS Developer
